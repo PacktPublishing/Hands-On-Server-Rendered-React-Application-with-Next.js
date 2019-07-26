@@ -1,32 +1,66 @@
-# Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]
-This is the code repository for [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On Server-Rendered React Application with Next.js	[Video]
+This is the code repository for [Hands-On Server-Rendered React Application with Next.js[Video]](https://www.packtpub.com/application-development/hands-server-rendered-react-application-nextjs-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Medium-sized business demands the reliability and high performance of large organizations, and the cost effectiveness of small businesses, to help them deal with competition efficiently. Cisco provides the necessary hardware and software to enable small- to medium-sized enterprises to build and maintain efficient voice and digital networks and empower the smooth running of your business. You will start by exploring the hardware options provided by Cisco to build your SME Voice Network. You will learn to set up Cisco command-line interface connections, and work with the hardware feature sets that fulfill your organization's various needs. From there, you will explore the different software you'll need for your network. You will learn to work with the Cisco Unified Communication Manager Express, Cisco Unity, and Cisco Configuration Professional Express, as well as the different file sets you will encounter on a daily basis. After that, you will learn to design your SME topology, and configure various devices for your network. You will set up your own dial plans, and also set up accounts with the help of the Cisco GUI Admin. Finally, you will learn to use Cisco Unity Connection to manage voice calls and messages over your organization's network. By the end of this tutorial, you will have mastered building, securing, and maintaining your own voice network for small- to medium-sized enterprises.
+This course will help you build a server-side, rendered React application with Next.js. Using a real-world example, this is a practical course. 
+You will begin by swiftly understanding Next.js and how it works. You will then create a server-rendered application in React to cater for a real-world scenario. This example will solve a major, frequent pain-point. While building the application, you will cover some important features provided by Next.js, to help you focus on development and make your work easier. You will cover some core Next.js concepts, understanding its full potential and why it has gained popularity. You will also cover the advantages of bringing SSR i.e. server-side rendering to your application.
+By the end of the course, you will be confident enough to build server-side rendered web applications with React and Next.js.
 
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Create and maintain your GUI connections 
-<LI>Work with virtual solutions for your large enterprise voice network with the help of VMWare 
-<LI>Manage your network’s DHCP and DNS dependencies 
-<LI>Set up different dial plans and manage your network’s users 
-<LI>Handle network connectivity with the help Cisco’s Unified Mobility Features 
-<LI>Ensure quality of service and security over your network 
-<LI>Set up and configure Cisco Unity Connection to manage voicemail over your network </LI></UL></DIV>
+<LI>Master Next.js fundamentals by building a static application
+<LI>Master universal server-side rendering in a matter of minutes!
+<LI>From custom error pages to SCSS imports, use a workflow that works for you
+<LI>Fetch data from databases, master gotchas, and clean URLs
+<LI>Learn how to fine-tune what code you run and understand your bundles
+<LI>Strategies for both Node servers and static CDN-hosted services such as Netlify
+<LI>Learn strategies to keep users signed in and protected content safe </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
-Targeting network engineers with a basic understanding of network topologies and how they work, this video course is also for anyone who wants to learn how to set up an efficient, scalable network for small- to medium-sized enterprises with the help of Cisco's networking solutions.	
+This course is for developers who are familiar with React and want to learn to use the power of Next.js to build server-rendered applications for their projects. Basic knowledge of JavaScript and React is assumed.	
 ### Technical Requirements
-This course has the following software requirements:<br/>
-CISCO
+Minimum Hardware Requirements
+For successful completion of this course, students will require the computer systems with at least the following:
+
+
+OS: Windows, Mac-OS, or Linux
+
+
+
+Processor: Dual-Core
+
+
+
+Memory: 4GB RAM
+
+
+
+Storage: 128GB storage
+
+
+Recommended Hardware Requirements
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+OS: Windows, Mac-OS, or Linux
+
+Processor: Intel i5 or higher Processor
+
+Memory: 8GB RAM
+
+Storage: 256GB storage
+
+Software Requirements
+
+Operating system: Windows, Mac-OS, or Linux
+
+Browser: Chrome, Firefox, Internet Explorer (Windows) or Safari
+
+IDE of your choice (Atom, WebStorm, Visual Studio Code, etc)
+
+Node.js LTS 8.9.1 Installed
 
 ## Related Products
-* [Cisco Voice Solutions for Medium to Large Enterprise MLE - CUCM [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-medium-large-enterprise-mle-cucm-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476263)
+* [Hands-On Server-Rendered React Application with Next.js [Video]](https://www.packtpub.com/application-development/hands-server-rendered-react-application-nextjs-video)
 
-* [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188)
-
-* [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188)
 
